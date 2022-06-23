@@ -4,7 +4,11 @@
 } */
 body{
     font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 100%;
+position: relative;
+background-color: aquamarine
 }
+
 .navbar{
     position: relative;
 }
@@ -36,6 +40,10 @@ body{
 }
 .book-display .list ul{
     padding: 5px;
+
+
 }
+
+
 
 
