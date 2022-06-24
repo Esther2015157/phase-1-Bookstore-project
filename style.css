@@ -17,7 +17,7 @@ body{
     padding: 5px;
     font-size: 20px;
     display: flex;
-    background-color: blueviolet;
+    background-color: rgb(226, 43, 211);
 }
 .navbar .navbar-link ul{
     width: 100%;
