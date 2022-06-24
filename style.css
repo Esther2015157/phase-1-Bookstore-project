@@ -172,7 +172,10 @@ body{
     width: 25%;
     box-sizing: border-box;
     text-align: center;
-    padding: 15px;
+    padding: 5px;
     font-size: 18px;
    
+}
+.footer .footer-content p{
+    display:block;
 }
