@@ -7,6 +7,7 @@
 * Clone the repo {git clone https://github.com/Esther2015157/phase-1-Bookstore-project.git}
 {The users will have access all the files in the project once it is forked from github} The API can be accessed using the link https://www.googleapis.com/books/v1/volumes?q=esther&key=AIzaSyC7CUOS9l1sqbP6mbeDePBod9xUc1iysY8
 ## Live link
+https://esther2015157.github.io/phase-1-Bookstore-project/
 ## Known Bugs
 {No server is required to host the project unless its being deployed. }
 ## Technologies Used
