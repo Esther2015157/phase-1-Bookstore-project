@@ -15,3 +15,10 @@ let fetchBooks =async() => {
 }
 
 fetchBooks()
+
+function openlogin(){
+    document.getElementById('formlogin').style.display = "block"
+}
+function closeform(){
+    document.getElementById('formlogin').style.display = "none"
+}
