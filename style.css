@@ -128,5 +128,38 @@ body{
 
 
 }
-
+#about{
+    height: 100vh;
+    width: 100%;
+    background-color: color;
+}
+#about .about-content{
+    width: 80%;
+    margin:auto;
+    display: flex;
+    box-sizing: border-box;
+}
+#about .about-content .abt-text{
+    margin: 20px;
+    width: 50%;
+    height: 70vh;
+    box-sizing: border-box;
+    margin-top: 5%;
+    font-size: 22px;
+}
+#about .about-content .abt-image{
+    width: 50%;
+    height: 70vh;
+    box-sizing: border-box;
+    margin-top: 5%;
+    position: relative;
+}
+#about .about-content .abt-image #imgs{
+    width: 400px;
+    height: 340px;
+    border-radius: 6px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
 
