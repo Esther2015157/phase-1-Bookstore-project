@@ -162,4 +162,17 @@ body{
     top: 10px;
     left: 10px;
 }
-
+.footer{
+    height: 30vh;
+    background: aquamarine;
+    width: 100%;
+    display: flex;
+}
+.footer .footer-content{
+    width: 25%;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 15px;
+    font-size: 18px;
+   
+}
