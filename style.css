@@ -37,5 +37,45 @@ body{
 .navbar .navbar-link li a:hover{
     color: blue;
 }
+.book-display{
+    width: 80%;
+    margin:auto;
+    display: flex;
+    box-sizing: border-box;
+}
+.book-display .bookimages{
+    width: 50%;
+    height: 70vh;
+    box-sizing: border-box;
+    margin-top: 5%;
+    position: relative;
+}
+.book-display .bookimages img{
+    width: 300px;
+    height: 240px;
+    border-radius: 6px;
+}
+.book-display .bookimages #first{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+.book-display .bookimages #second{
+    position: absolute;
+    top: 60px;
+    left: 80px;
+}
+.book-display .list{
+    margin: 20px;
+    width: 50%;
+    height: 70vh;
+    box-sizing: border-box;
+    margin-top: 5%;
+}
+.book-display .list ul{
+    padding: 5px;
+
+
+}
 
 
